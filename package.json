@@ -1,5 +1,6 @@
 {
   "name": "cite-gen-app",
+  "license": "MIT",
   "private": true,
   "version": "0.0.0",
   "type": "module",
